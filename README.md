@@ -29,7 +29,7 @@ I build scalable web applications using React, Node.js, Express, MongoDB and mod
   - Project showcase
   - Skills section
   - Contact section
-- 🔗 [Live Demo](YOUR_VERCEL_LINK)
+- 🔗 [Live Demo](https://portfolio-liart-seven-90.vercel.app/)
 
 ---
 
@@ -37,6 +37,15 @@ I build scalable web applications using React, Node.js, Express, MongoDB and mod
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ANJx24&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANJx24&layout=compact&theme=tokyonight" />
 </p>
 
 ---
