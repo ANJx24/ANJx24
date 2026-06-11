@@ -62,6 +62,16 @@ I build scalable web applications using React, Node.js, Express, MongoDB and mod
 
 ---
 
+## 💻 Coding Profiles
+
+<p align="left">
+  <a href="https://leetcode.com/u/23bcs11883/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+</p>
+
+---
+
 ## 📫 Connect with me
 - 💼 LinkedIn: (https://www.linkedin.com/in/jha-anuj/)
 - 📧 Email:     anujjha2412@gmail.com
