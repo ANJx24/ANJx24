@@ -60,15 +60,6 @@ I build scalable web applications using React, Node.js, Express, MongoDB and mod
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANJx24&theme=tokyo-night" />
 </p>
 
----
-
-## 💻 Coding Profiles
-
-<p align="left">
-  <a href="https://leetcode.com/u/23bcs11883/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-</p>
 
 ---
 
