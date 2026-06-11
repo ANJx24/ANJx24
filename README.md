@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anuj
 
-🚀 Mern Stack Developer | Passionate Developer | Web Dev | Problem Solver  
+🚀 Full Stack Developer (MERN) | Passionate Developer | Web Dev | Problem Solver  
 I build scalable web applications using React, Node.js, Express, MongoDB and modern web technologies.
 
 ---
@@ -46,6 +46,18 @@ I build scalable web applications using React, Node.js, Express, MongoDB and mod
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ANJx24&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANJx24&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANJx24&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANJx24&theme=tokyo-night" />
 </p>
 
 ---
