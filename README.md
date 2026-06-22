@@ -19,7 +19,7 @@ I build scalable web applications using React, Node.js, Express, MongoDB and mod
   - Bus tracking
   - Route info
   - Clean UI
-- 🔗 [View Project](https://github.com/ANJx24/bihar-transport-frontend)
+- 🔗 [Live Demo](https://bihar-transport-frontend.vercel.app/)
 
 ### Portfolio Website
 - Built using: React, JavaScript, Tailwind CSS
