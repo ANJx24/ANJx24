@@ -94,7 +94,7 @@ I build scalable web applications using React, Node.js, Express, MongoDB and mod
 ## 📫 Connect with me
 - 💼 LinkedIn: (https://www.linkedin.com/in/jha-anuj/)
 - 📧 Email:     anujjha2412@gmail.com
-- 🌐 Portfolio:
-- 🐙 GitHub:    github.com/ANJx24
+- 🌐 Portfolio: (https://portfolio-liart-seven-90.vercel.app/)
+- 🐙 GitHub:    (github.com/ANJx24)
 
 
