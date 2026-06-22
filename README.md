@@ -43,7 +43,7 @@ I build scalable web applications using React, Node.js, Express, MongoDB and mod
   - Theme support
   - Responsive design
 
-- 🔗 [View Project](https://anjx24.github.io/Stopwatch/stopwatch-main/)
+- 🔗 [Live Demo](https://anjx24.github.io/Stopwatch/stopwatch-main/)
 
   ### 🧮 Scientific Calculator with Error Analysis
 
@@ -57,7 +57,7 @@ I build scalable web applications using React, Node.js, Express, MongoDB and mod
   - False Position Method
   - Interactive web interface
 
-- 🔗 [View Project](https://github.com/ANJx24/errorcalculatorweb)
+- 🔗 [Live Demo](https://anjx24.github.io/errorcalculatorweb/)
 
 ---
 
