@@ -31,6 +31,34 @@ I build scalable web applications using React, Node.js, Express, MongoDB and mod
   - Contact section
 - 🔗 [Live Demo](https://portfolio-liart-seven-90.vercel.app/)
 
+  ### ⏱️ Stopwatch
+
+- Built using: HTML, CSS, JavaScript
+- Features:
+  - Millisecond precision stopwatch
+  - Lap recording and clear laps
+  - Voice commands
+  - Countdown timer
+  - Pomodoro timer
+  - Theme support
+  - Responsive design
+
+- 🔗 [View Project](https://anjx24.github.io/Stopwatch/stopwatch-main/)
+
+  ### 🧮 Scientific Calculator with Error Analysis
+
+- Built using: Python, HTML, CSS, JavaScript
+- Features:
+  - Scientific calculator
+  - Error analysis (Absolute, Relative, Percentage Error)
+  - Error propagation calculations
+  - Bisection Method
+  - Newton-Raphson Method
+  - False Position Method
+  - Interactive web interface
+
+- 🔗 [View Project](https://github.com/ANJx24/errorcalculatorweb)
+
 ---
 
 ### 🛠️ Tech Stack
