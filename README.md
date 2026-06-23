@@ -45,7 +45,7 @@ I build scalable web applications using React, Node.js, Express, MongoDB and mod
 
 - 🔗 [Live Demo](https://anjx24.github.io/Stopwatch/stopwatch-main/)
 
-  ### 🧮 Scientific Calculator with Error Analysis
+### 🧮 Scientific Calculator with Error Analysis
 
 - Built using: Python, HTML, CSS, JavaScript
 - Features:
@@ -58,6 +58,23 @@ I build scalable web applications using React, Node.js, Express, MongoDB and mod
   - Interactive web interface
 
 - 🔗 [Live Demo](https://anjx24.github.io/errorcalculatorweb/)
+
+## 🎯 QuizArena
+
+* Built using: Vue.js, Vite, Tailwind CSS, JavaScript
+
+* Features:
+
+  * Multiple Quiz Categories
+  * Difficulty Selection (Easy, Medium, Hard)
+  * Real-Time Score Tracking
+  * Previous Question Navigation
+  * Dynamic Questions using Open Trivia DB API
+  * Responsive Design
+  * Fast and Lightweight UI
+  * Deployed on Vercel
+
+* 🔗 [Live Demo](https://quiz-arena-ecru.vercel.app/)
 
 ---
 
