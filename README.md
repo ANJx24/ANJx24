@@ -21,6 +21,7 @@ I build scalable web applications using React, Node.js, Express, MongoDB and mod
   - Clean UI
 - 🔗 [Live Demo](https://bihar-transport-frontend.vercel.app/)
 
+
 ### Portfolio Website
 - Built using: React, JavaScript, Tailwind CSS
 - Features:
@@ -31,7 +32,8 @@ I build scalable web applications using React, Node.js, Express, MongoDB and mod
   - Contact section
 - 🔗 [Live Demo](https://portfolio-liart-seven-90.vercel.app/)
 
-  ### ⏱️ Stopwatch
+
+### ⏱️ Stopwatch
 
 - Built using: HTML, CSS, JavaScript
 - Features:
@@ -44,6 +46,7 @@ I build scalable web applications using React, Node.js, Express, MongoDB and mod
   - Responsive design
 
 - 🔗 [Live Demo](https://anjx24.github.io/Stopwatch/stopwatch-main/)
+
 
 ### 🧮 Scientific Calculator with Error Analysis
 
@@ -58,6 +61,7 @@ I build scalable web applications using React, Node.js, Express, MongoDB and mod
   - Interactive web interface
 
 - 🔗 [Live Demo](https://anjx24.github.io/errorcalculatorweb/)
+
 
 ## 🎯 QuizArena
 
